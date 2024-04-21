@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Carbonadooo
-- 👀 I’m interested in video games.
+- 👀 I’m interested in deep learning, robotics and video games.
 - 🌱 I’m currently learning engineering in HKU and major in computer science.
 - 📫 e-mail: zshaoyu@connect.hku.hk
 
